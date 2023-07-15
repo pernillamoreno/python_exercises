@@ -8,3 +8,4 @@ Leapyear: print leapyear.
 
 Love_Cal: Love calculator
 
+bmi_2: Bmi calculator
