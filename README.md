@@ -2,7 +2,7 @@
 
 Pizza order : simpel pizza order program
 
-Ticket: By tiket to ollercoster
+Ticket: By tiket to rollercoster
 
 Leapyear: print leapyear.
 
